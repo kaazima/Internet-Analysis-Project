@@ -1,4 +1,4 @@
-# Internet Analysis ![Flake8](https://github.com/kaazima/Internet-Analysis-Project/actions/workflows/flake8.yml/badge.svg) ![Pylint](https://github.com/kaazima/Internet-Analysis-Project/actions/workflows/pylint.yml/badge.svg) [![GitHub license](https://img.shields.io/github/license/kaazima/Internet-Analysis-Project)](https://github.com/kaazima/Internet-Analysis-Project/blob/master/LICENSE)
+# Internet Analysis ![Flake8](https://github.com/kaazima/Internet-Analysis-Project/actions/workflows/flake8.yml/badge.svg) ![Pylint](https://github.com/kaazima/Internet-Analysis-Project/actions/workflows/pylint.yml/badge.svg) [![GitHub license](https://img.shields.io/github/license/kaazima/Internet-Analysis-Project)](https://github.com/kaazima/Internet-Analysis-Project/blob/main/LICENSE)
 
 A Data Analysis project to determine the best times for internet usage by analyzing the log file provided by the user.
 
@@ -35,7 +35,7 @@ Please read [Installation](Installation.md) file for details.
 
 # :scroll: Changelog
 
-Check the [changelog here](https://github.com/kaazima/Internet-Analysis-Project/commits/master).
+Check the [changelog here](https://github.com/kaazima/Internet-Analysis-Project/commits/main).
 
 # :memo: I found some bugs or issues. Where do I report?
 
