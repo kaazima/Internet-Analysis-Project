@@ -18,4 +18,4 @@ jobs:
         pip install nbqa pylint
     - name: Analysing the code with Pylint
       run: |
-        nbqa pylint *.ipynb --disable=invalid-name, wrong-import-position, import-error
+        nbqa pylint --disable=invalid-name,wrong-import-position,import-error *.ipynb
