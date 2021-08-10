@@ -18,8 +18,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 # :family: Team
 
--   **Kaazima Ifrah** - _Data Analysis_ - [KaazimaIfrah](https://github.com/kaazima)
--   **Aravind V. Nair** - _CI_ - [AravindVNair99](https://github.com/AravindVNair99)
+-   **Kaazima Ifrah** - _Data Analysis, Continuous Integration_ - [KaazimaIfrah](https://github.com/kaazima)
+-   **Aravind V. Nair** - _Continuous Integration_ - [AravindVNair99](https://github.com/AravindVNair99)
 
 See the full list of [contributors](https://github.com/kaazima/Internet-Analysis-Project/graphs/contributors) who participated in this project and statistics.
 
